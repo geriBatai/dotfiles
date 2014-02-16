@@ -58,3 +58,6 @@ alias vi="/usr/local/bin/vim"
 alias flushdns="sudo dscacheutil -flushcache"
 alias http="python -m SimpleHTTPServer"
 alias ctime="perl -MPOSIX -e 'ctime $*'"
+
+export CLICOLOR=yes
+export LSCOLORS=ExFxBxDxCxegedabagacad
