@@ -61,3 +61,5 @@ alias ctime="perl -MPOSIX -e 'ctime $*'"
 
 export CLICOLOR=yes
 export LSCOLORS=ExFxBxDxCxegedabagacad
+
+export PAGER="most"
