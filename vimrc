@@ -25,12 +25,14 @@ Bundle 'scrooloose/nerdtree'
 Bundle 'majutsushi/tagbar'
 Bundle 'rodjek/vim-puppet'
 Bundle 'Raimondi/delimitMate'
+Bundle 'mattn/emmet-vim'
 
 " Themes
 Bundle 'jpo/vim-railscasts-theme'
 Bundle 'flazz/vim-colorschemes'
 Bundle 'xolox/vim-misc'
 Bundle 'xolox/vim-colorscheme-switcher'
+Bundle "daylerees/colour-schemes", { "rtp": "vim/" }
 
 " }}}
 
